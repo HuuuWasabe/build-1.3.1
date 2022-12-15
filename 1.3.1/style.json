@@ -1,0 +1,45 @@
+{
+	"QCustomSlideMenu": [{
+		"name": "sideMenu",
+		"defaultSize": [{
+			"width": 180,
+			"height": "auto"
+		}],
+		"collapsedSize": [{
+			"width": 0,
+			"height": 0
+		}],
+		"expandedSize": [{
+			"width": 180,
+			"height": "auto"
+		}],
+		"toggleButton": [{
+			"buttonName": "menuBtn",
+			"icons": [{
+				"whenMenuIsCollapsed": ":/icons/icons/align-justify.svg",
+				"whenMenuIsExpanded": ":/icons/icons/chevron-left.svg"
+			}]
+		}],
+		"menuTransitionAnimation": [{
+			"animationDuration": 900,
+			"animationEasingCurve": "OutBack"
+		}]
+	}],
+	"QSettings": [{
+		"ThemeSettings": [{
+			"CustomTheme": [{
+				"Background-color": "#1b1b27",
+				"text-color": "#fff",
+				"Accent-color": "#03C3C3",
+				"Theme-name": "Dark-Blue",
+				"Default-Theme": true
+			}]
+		}],
+		"AppSettings": {
+			"OrganizationName": "Junk N Trade",
+			"ApplicationName": "Junk N Trade"
+		}
+	}]
+
+
+}

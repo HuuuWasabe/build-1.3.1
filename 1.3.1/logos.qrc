@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>logo/logo_1.png</file>
+    <file>logo/logo_1.2.png</file>
+  </qresource>
+  <qresource prefix="shops">
+    <file>misc pic/shops/fnj.jpg</file>
+    <file>misc pic/shops/dadtata.jpg</file>
+    <file>misc pic/shops/no_image.jpg</file>
+  </qresource>
+  <qresource prefix="junk">
+    <file>misc pic/junk items/tires.png</file>
+    <file>misc pic/junk items/cans.png</file>
+    <file>misc pic/junk items/carton.png</file>
+    <file>misc pic/junk items/electrical.png</file>
+    <file>misc pic/junk items/metals.png</file>
+    <file>misc pic/junk items/paper.png</file>
+    <file>misc pic/junk items/plastics.png</file>
+    <file>misc pic/junk items/bottle.png</file>
+  </qresource>
+  <qresource prefix="giftCards">
+    <file>misc pic/gift cards/grab_200.jpg</file>
+    <file>misc pic/gift cards/lazada_100.jpg</file>
+    <file>misc pic/gift cards/nbs_500.jpg</file>
+    <file>misc pic/gift cards/robinsons_1000.jpg</file>
+    <file>misc pic/gift cards/smdept_500.jpg</file>
+    <file>misc pic/gift cards/gcash_500.jpg</file>
+  </qresource>
+</RCC>
